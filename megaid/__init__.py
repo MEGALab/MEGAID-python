@@ -1,0 +1,1 @@
+from .megaid import MEGAID
