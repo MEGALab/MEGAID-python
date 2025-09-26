@@ -1,1 +1,5 @@
 PyJWT>=2.8.0
+click
+python-dotenv
+pyyaml
+
